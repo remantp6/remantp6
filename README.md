@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/remant-paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remant paudel" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/remant-paudel-325604270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remant paudel" height="25" width="35" /></a>
 <a href="https://fb.com/reymant.paudelkhettri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="remant paudel khatri" height="25" width="35" /></a>
 </p>
 
