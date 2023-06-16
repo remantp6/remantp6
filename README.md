@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remantp6&show_icons=true&locale=en&layout=compact" alt="remantp6" /></p>
 -->
-<p><img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=remantp6&layout=compact&langs_count=16&theme=dracula"/></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=remantp6&layout=compact&langs_count=16&theme=dracula"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remantp6&show_icons=true&locale=en" alt="remantp6" /></p>
 
 
