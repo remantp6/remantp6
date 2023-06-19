@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p><img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remantp6&layout=compact&langs_count=16&theme=dracula" /></p>
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remantp6&layout=compact&langs_count=16&theme=dracula" />
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=remantp6&show_icons=true&locale=en" alt="remantp6" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=remantp6&show_icons=true&locale=en" alt="remantp6" />
 
 
 
