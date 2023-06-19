@@ -34,9 +34,13 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p display="flex"; align-items="center"; >
-<img align="center"  padding-left="20px" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remantp6&layout=compact&langs_count=16&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=remantp6&show_icons=true&locale=en" alt="remantp6" /></p>
+<!--<p display="flex"; align-items="center"; >
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remantp6&layout=compact&langs_count=16&theme=dracula" />
+<img align="center" padding-left="20px" src="https://github-readme-stats.vercel.app/api?username=remantp6&show_icons=true&locale=en" alt="remantp6" /></p>-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remantp6&layout=compact&langs_count=16&theme=dracula"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remantp6&show_icons=true&locale=en" alt="remantp6" /></p>
 
 
 
