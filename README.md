@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
    
-- 👦 I am Remanta Paudel Khatri from Kathmandu,Nepal. 
+- 👦 I am Remanta Paudel Khatri from Kathmandu, Nepal. 
 - 👨‍🎓 I’ve completed my Bachelor of Science in Computer Science and Information Technology.
 - 🔭 I’m working as a **Front-end developer**
 - 🌱 I’m currently learning react native
